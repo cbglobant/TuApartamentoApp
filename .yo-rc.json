@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "TuApartamentoApp",
+    "packageName": "com.tuapartamento.app",
+    "packageFolder": "com/tuapartamento/app",
+    "serverPort": 9999,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "N2U0MzYyMDI0MTk3YjZhMWY0ZTZjMjQ5ZDU4MTRhZWNhMGQ3ZWMzNzdlMjhkNzYwYmNhNmM0NTE3Yjc5ZGE2MGU1MmZhYjc0ZTA2MTA4MmViNmE4MjQwOTc0ZjNhODhkNGJiZWM2NGY2MGM4NzM1MDYwY2NkZDEwYjU3YjNhNTc=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "cbglobant",
+  "repository-name": "TuApartamentoApp"
+}
